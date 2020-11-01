@@ -1,0 +1,4 @@
+name: TablistResizer
+main: me.pablete1234.tabresize.TablistResizer
+version: 1.0.0-SNAPSHOT
+depend: [ProtocolLib]
